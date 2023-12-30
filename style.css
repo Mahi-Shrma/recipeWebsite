@@ -1,0 +1,57 @@
+.mylist{
+    list-style: none;
+}
+.herosection{
+    position: relative;
+    
+  }
+.searchbar{
+    width:100%;
+  }
+.text-block {
+    position: absolute;
+    bottom: 100px;
+    right: 1100px;
+    color: white;
+    font-size: 12px;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+    padding-top: 100px;
+  }
+  #firstline{
+    color:#DC582A;
+  }
+  .btn{
+    color:white;
+  }
+  ul{
+    list-style: none;
+  }
+  .option{
+
+  }
+  .btn1,.btn2,.btn3{
+    width: 236.8px;
+    height: 86px;
+    padding: 30px, 29.8px, 30px, 29px;
+    border-radius: 10px;
+    
+  }
+.btn1{
+    background-color: #EAAA00;
+    color:#FFFFFF;
+}
+.btn2{
+    background-color: #C4D600;
+    color:#FFFFFF;
+}
+.btn3 >img{
+    padding-left: 30px;
+}
+.btn1>img{
+    padding-left: 30px;
+}
+.btn2>img{
+    padding-left: 30px;
+}
+.
